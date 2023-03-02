@@ -16,6 +16,6 @@ O enunciado do exercício está nas primeiras linhas do código.
  - Questão (C), onde o usuário entra com o nome do país que deseja ver o gráfico dos PIBs com o passar dos anos. Logo após isso, será exibido o gráfico do país selecionado;
  - Sair do programa, onde o usuário entra digitando 0 e após a confirmação, o programa se encerra.
 
-Foi usada a biblioteca Pandas do Python para usar os métodos de dataFrame para manipular os dados da tabela. O código conta com uma falha. Não há tratamento de exceção caso o usuário passe um ano que não está na tabela. O programa apresentará um erro ou se encerrará. 
+Foi usada a biblioteca Pandas do Python para usar os métodos de dataFrame para manipular os dados da tabela. O código conta com uma falha: Não há tratamento de exceção caso o usuário passe um ano que não está na tabela. O programa apresentará um erro ou se encerrará. 
 O enunciado do exercício está nas primeiras linhas do código.
 
