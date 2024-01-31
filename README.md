@@ -1,5 +1,5 @@
 # Exercícios Python
-Estes são exercícios que foram utilizados como avaliação na minha faculdade (Instituto INFNET do Rio de Janeiro) na graduação de Engenharia de Software na matéria de Lógica, Computação e Algoritmos.
+Estes são exercícios que foram utilizados como avaliação na minha faculdade na graduação de Engenharia de Software na matéria de Lógica, Computação e Algoritmos.
 
 Todos os enunciados das questões estão nas primeiras linhas dos códigos.
 
